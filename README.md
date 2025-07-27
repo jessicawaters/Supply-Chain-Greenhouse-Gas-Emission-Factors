@@ -5,7 +5,7 @@ This dataset shows how much greenhouse gas (GHG) pollution is created when peopl
 The data is based on emissions from the year 2022 and includes 1,016 commodities (except for electricity, government, and household services, which are not included).
 
 ## Dataset Description
-Each row represents a product or service and shows how much pollution is generated for every $1 spent on it. The pollution is measured in kilograms of CO₂-equivalent (kg CO₂e) — this combines all greenhouse gases into one number so they’re easier to compare.
+Each row represents a product or service and shows how much pollution is generated for every $1 spent on it. The pollution is measured in kilograms of CO₂-equivalent (kg CO₂e) which combines all greenhouse gases into one number so they’re easier to compare.
 
 You’ll see three types of emission values for each product:
 | Factor Type                                      | Description                                                              |
@@ -17,7 +17,7 @@ You’ll see three types of emission values for each product:
 ## Units and Calculations
 - All emissions are reported as kg of CO₂e per $1 (2022 USD) spent.
 
-- The emissions use purchaser prices — what buyers actually pay.
+- The emissions use purchaser prices.
 
 - CO₂e values are calculated using global warming potentials from the IPCC’s 5th report (AR5), looking at impact over 100 years.
 
